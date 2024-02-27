@@ -18,10 +18,7 @@ h1{
 	border: 1px solid black;
 }
 
-#t11{
-	text-align: left;
-}
-#t12{
+.center{
 	text-align: center;
 }
 .right{
